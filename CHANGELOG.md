@@ -1,5 +1,14 @@
 # Changelog
 
+## [Ejercicio 5]
+- Creación de gráfico: Top 10 matrículas reincidentes.
+- Creación de gráfico: Infracciones por turno del día.
+- Creación de gráfico: Infracciones por mes.
+- Creación de gráfico: Distribución del exceso de velocidad.
+- Creación de gráfico: Exceso promedio por muelle.
+- Creación de gráfico: Fechas válidas vs inválidas.
+
+
 ## [Ejercicio 3]
 - Normalización de fechas de ingreso y egreso.
 - Normalización de horas de ingreso y egreso.
