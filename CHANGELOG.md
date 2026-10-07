@@ -1,5 +1,12 @@
 # Changelog
 
+## [Sprint 2 - Ejercicio 2]
+- Listado de imágenes con nombre y tamaño en KB.
+- Separación en `plates` y `completes` por área.
+- Generación de `port_log/data/interim/group_images.json`.
+- Cálculo de resolución, área y tamaño promedio por grupo.
+- Función `mostrar_muestra` para visualizar imágenes.
+
 ## [Sprint 2 - Ejercicio 1]
 - Creación de la rama `Sprint_2` a partir de `Sprint_1`.
 - Actualización del `README.md` para el Sprint 2.
