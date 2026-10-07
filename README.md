@@ -1,9 +1,9 @@
 # Herramientas de Software para el Análisis de Datos
-## Sprint 1
+## Sprint 2
 ### Objetivo
-Aplicar conocimientos de versionado, organización y análisis exploratorio de datos con pandas sobre un dataset real de operaciones portuarias.
+Aplicar conocimientos de tratamiento de imágenes y programación limpia sobre el contexto del sistema portuario.
 
 ### Introducción y contexto
-El Puerto Fluvial de Rosario es uno de los complejos portuarios más importantes de América del Sur, siendo el principal punto de exportación de granos y derivados de la Argentina.
-El sistema de registro de movimientos portuarios fue migrado recientemente desde un sistema heredado de los años '90. Este sistema acumuló durante décadas inconsistencias de formato en fechas, matrículas de buques y valores numéricos fuera de rango.
-El objetivo del Sprint 1 es analizar y depurar estos datos para que puedan ser incorporados al nuevo sistema.
+Los radares ubicados en los accesos a los muelles capturan evidencia fotográfica de las infracciones de velocidad. En algunos casos el sistema recorta la zona de matrícula (`plates`) y en otros entrega la imagen completa (`completes`).
+No todas las infracciones tienen imagen, no todas las imágenes corresponden a una infracción real y puede haber errores de detección óptica.
+El objetivo del Sprint 2 es determinar qué infracciones tienen evidencia visual válida.

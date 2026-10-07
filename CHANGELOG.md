@@ -1,5 +1,11 @@
 # Changelog
 
+## [Sprint 2 - Ejercicio 1]
+- Creación de la rama `Sprint_2` a partir de `Sprint_1`.
+- Actualización del `README.md` para el Sprint 2.
+- Descarga del dataset de imágenes en `port_log/data/raw/imgs`.
+- Verificación de los archivos del Sprint 1 y conteo de registros.
+
 ## [Ejercicio 7]
 
 - Evaluación de la calidad del dataset heredado.
