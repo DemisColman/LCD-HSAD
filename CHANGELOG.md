@@ -1,5 +1,12 @@
 # Changelog
 
+## [Sprint 2 - Ejercicio 5]
+- Cálculo de infracciones con y sin imagen asociada.
+- Cálculo de imágenes sin match en el dataset.
+- Cálculo del ratio promedio de coincidencia.
+- Comparación de la tasa de match entre plates y completes.
+- Identificación de infracciones PENDIENTES sin evidencia visual.
+
 ## [Sprint 2 - Ejercicio 4]
 - Extracción de matrículas de las imágenes.
 - Cruce de las matrículas extraídas con el dataset.
