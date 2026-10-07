@@ -1,5 +1,11 @@
 # Changelog
 
+## [Sprint 2 - Ejercicio 4]
+- Extracción de matrículas de las imágenes.
+- Cruce de las matrículas extraídas con el dataset.
+- Cruce de imágenes con el dataset.
+- Exportación a archivo csv.
+
 ## [Sprint 2 - Ejercicio 3]
 - Conversión de imágenes a escala de grises.
 - Ecualización de histograma para mejorar el contraste.
