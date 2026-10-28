@@ -1,5 +1,10 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 3]
+- Diseño del modelo lógico: entidades `Buque`, `Movimiento`, `Radar`, `Muelle` y `Evidencia`.
+- Definición de claves primarias, foráneas y cardinalidades.
+- Documentación de las decisiones de diseño.
+
 ## [Sprint 3 - Ejercicio 2]
 - Configuración de Supabase Storage como remote S3 de DVC.
 - Migración a DVC de las imágenes en `port_log/data/raw/imgs`.
