@@ -1,5 +1,10 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 1]
+- Creación de la rama `Sprint_3` a partir de `Sprint_2`.
+- Actualización del `README.md` para el Sprint 3.
+- Verificación de los datasets de sprints anteriores: registros y fecha de última modificación.
+
 ## [Sprint 2 - Ejercicio 6]
 - Análisis del porcentaje de infracciones validadas visualmente.
 - Comparación de la tasa de match entre plates y completes.

@@ -1,9 +1,11 @@
 # Herramientas de Software para el Análisis de Datos
-## Sprint 2
+## Sprint 3
 ### Objetivo
-Aplicar conocimientos de tratamiento de imágenes y programación limpia sobre el contexto del sistema portuario.
+Aplicar conocimientos de bases de datos relacionales (SQLAlchemy), versionado de datos (DVC) y búsqueda por similitud visual (ChromaDB) para profesionalizar el sistema portuario.
 
 ### Introducción y contexto
-Los radares ubicados en los accesos a los muelles capturan evidencia fotográfica de las infracciones de velocidad. En algunos casos el sistema recorta la zona de matrícula (`plates`) y en otros entrega la imagen completa (`completes`).
-No todas las infracciones tienen imagen, no todas las imágenes corresponden a una infracción real y puede haber errores de detección óptica.
-El objetivo del Sprint 2 es determinar qué infracciones tienen evidencia visual válida.
+El sistema ha crecido en volumen y complejidad. El equipo de desarrollo portuario necesita:
+
+1. **Persistencia estructurada**: pasar de CSVs a una base de datos relacional con ORM.
+2. **Auditoría de cambios**: poder rastrear qué versión del dataset se usó en cada análisis.
+3. **Identificación visual de buques**: dado que la OCR no siempre funciona bien, el sistema debe poder identificar un buque por similitud visual de su imagen, sin depender del texto.
