@@ -1,5 +1,9 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 8]
+- Función `buscar_buque_por_imagen` con advertencia por similitud baja.
+- Umbral de similitud justificado con la distribución de las imágenes del dataset.
+
 ## [Sprint 3 - Ejercicio 7]
 - Base vectorial buque_vectorial con ChromaDB y OpenCLIP, con métrica coseno.Cobertura vectorial calculada contra la base relacional (25%).
 
