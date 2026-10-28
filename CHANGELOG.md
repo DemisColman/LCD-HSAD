@@ -1,5 +1,8 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 6]
+- Seis consultas SQLAlchemy sobre infracciones, evidencia, radares y muelles.
+
 ## [Sprint 3 - Ejercicio 5]
 - Creación de la base transito_portuario y carga desde el CSV.Validación de registros insertados.
 
