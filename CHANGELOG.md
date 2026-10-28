@@ -1,5 +1,8 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 5]
+- Creación de la base transito_portuario y carga desde el CSV.Validación de registros insertados.
+
 ## [Sprint 3 - Ejercicio 4]
 - Modelos SQLAlchemy `Buque`, `Muelle`, `Radar`, `Movimiento` y `Evidencia` con claves y relaciones.
 - Función `procesar_fila_csv`.
