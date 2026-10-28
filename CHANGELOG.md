@@ -1,5 +1,8 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 7]
+- Base vectorial buque_vectorial con ChromaDB y OpenCLIP, con métrica coseno.Cobertura vectorial calculada contra la base relacional (25%).
+
 ## [Sprint 3 - Ejercicio 6]
 - Seis consultas SQLAlchemy sobre infracciones, evidencia, radares y muelles.
 
