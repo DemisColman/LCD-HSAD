@@ -1,5 +1,11 @@
 # Changelog
 
+## [Sprint 2 - Ejercicio 9]
+- Análisis del porcentaje de infracciones validadas visualmente.
+- Comparación de la tasa de match entre plates y completes.
+- Evaluación del ratio promedio de coincidencia.
+- Identificación de infracciones PENDIENTES sin evidencia visual.
+
 ## [Sprint 3 - Ejercicio 8]
 - Función `buscar_buque_por_imagen` con advertencia por similitud baja.
 - Umbral de similitud justificado con la distribución de las imágenes del dataset.
