@@ -1,5 +1,9 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 4]
+- Modelos SQLAlchemy `Buque`, `Muelle`, `Radar`, `Movimiento` y `Evidencia` con claves y relaciones.
+- Función `procesar_fila_csv`.
+
 ## [Sprint 3 - Ejercicio 3]
 - Diseño del modelo lógico: entidades `Buque`, `Movimiento`, `Radar`, `Muelle` y `Evidencia`.
 - Definición de claves primarias, foráneas y cardinalidades.
