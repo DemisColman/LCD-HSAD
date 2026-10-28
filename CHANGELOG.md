@@ -1,5 +1,11 @@
 # Changelog
 
+## [Sprint 3 - Ejercicio 2]
+- Configuración de Supabase Storage como remote S3 de DVC.
+- Migración a DVC de las imágenes en `port_log/data/raw/imgs`.
+- Migración a DVC de los gráficos en `port_log/data/interim/plots`.
+- Versionado con DVC de `port_log/data/processed/port_movements_image.csv`.
+
 ## [Sprint 3 - Ejercicio 1]
 - Creación de la rama `Sprint_3` a partir de `Sprint_2`.
 - Actualización del `README.md` para el Sprint 3.
